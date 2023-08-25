@@ -1,0 +1,20 @@
+https://ide.cs50.io/
+
+https://ide.cs50.io/34e43f824d9d4ef59d08e720c229e1e1
+
+https://youtu.be/m-_CA1kXm98
+
+comando para criar diretorio
+mkdir ~/pset1/
+
+cd ~/pset1/
+
+mkdir ~/pset1/hello
+
+make verifica se o codigo esta correto
+make hello
+
+para executar
+./hello
+
+https://youtu.be/B254ENe2lsg
